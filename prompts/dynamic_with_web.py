@@ -1,4 +1,4 @@
-# Prompt used for dynamic split without web search enabled
+# Prompt used for the dynamic split with web search enabled
 
 PROMPT_DYNAMIC_WITH_WEB = '''You are an expert at answering questions.
 Given the following question, provide a concise and very to-the-point answer in plain text in minimal words. 
