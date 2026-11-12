@@ -18,7 +18,7 @@ This repository accompanies our paper evaluating how closed-source LLMs decide w
 - Static split: evaluates selective invocation based on internal confidence when retrieval is unnecessary.
 - Dynamic split: evaluates whether models detect information staleness and fetch updated answers.
 - Metrics: accuracy, calibration impact, routing behavior, cost per improvement, and query efficiency.
-- Models tested: Claude 4.5 Haiku and GPT-5-mini.
+- Models tested: Claude Haiku 4.5 and GPT-5-mini.
 
 
 ## Repository Status
